@@ -1,0 +1,12 @@
+D:\OneDrive\Documents\Internet Application\Internet Application\bin\Debug\Internet Application.exe.config
+D:\OneDrive\Documents\Internet Application\Internet Application\bin\Debug\Internet Application.exe
+D:\OneDrive\Documents\Internet Application\Internet Application\bin\Debug\Internet Application.pdb
+D:\OneDrive\Documents\Internet Application\Internet Application\obj\Debug\Internet Application.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Internet Application\Internet Application\obj\Debug\Internet Application.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Documents\Internet Application\Internet Application\obj\Debug\Internet_Application.Form1.resources
+D:\OneDrive\Documents\Internet Application\Internet Application\obj\Debug\Internet_Application.Form2.resources
+D:\OneDrive\Documents\Internet Application\Internet Application\obj\Debug\Internet_Application.Properties.Resources.resources
+D:\OneDrive\Documents\Internet Application\Internet Application\obj\Debug\Internet Application.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Internet Application\Internet Application\obj\Debug\Internet Application.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Internet Application\Internet Application\obj\Debug\Internet Application.exe
+D:\OneDrive\Documents\Internet Application\Internet Application\obj\Debug\Internet Application.pdb
